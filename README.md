@@ -4,7 +4,9 @@
 
 **AI engineer building systems that think — and shipping them before they're ready.**
 
-[arjav.is-a.dev](https://arjav.is-a.dev) · [Email](mailto:arjav.3003jain@gmail.com) · [LinkedIn](#) · [arjav1181](https://github.com/arjav1181)
+[![GitHub](https://img.shields.io/badge/GitHub-arjav1181-181717?logo=github&logoColor=white)](https://github.com/arjav1181)
+[![Website](https://img.shields.io/badge/Website-arjav.is-a.dev-5b3d9f)](https://arjav.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-arjav.3003jain@gmail.com-3b82f6)](mailto:arjav.3003jain@gmail.com)
 
 </div>
 
@@ -16,22 +18,26 @@ The pattern is always the same: **learn by building, ship the thing, then let it
 
 ## What I'm working on
 
-- **Agent tooling that leaves the terminal.** `kiln` wraps the Claude Agent SDK in a dev-server, preview proxy, and click-to-edit provenance layer so a coding agent produces something you can actually *look at*.
-- **Voice as a real interface.** `jaarvis` is a voice-first butler — wake word, sub-500ms barge-in, cited memory, and a guardrail law where reads are free but anything irreversible always confirms.
-- **Sites you own.** `siteforge` turns video and prompts into Next.js + Tailwind you have full control over. No lock-in, no black box.
+- **Agent tooling that leaves the terminal.** A dev-server, preview proxy, and click-to-edit provenance layer that wraps a coding agent so it produces something you can actually *look at*.
+- **Voice as a real interface.** A voice-first butler — wake word, sub-500ms barge-in, cited memory, and a guardrail law where reads are free but anything irreversible always confirms.
+- **Sites you own.** One CLI that turns video and prompts into Next.js + Tailwind you have full control over. No lock-in, no black box.
 
 ## Featured work
 
 | Project | What it is |
 |---|---|
-| **[`kiln`](https://github.com/arjav1181/kiln)** | A Lovable-grade product shell for terminal coding agents. Empty directory in, running app out, on whatever stack the project uses. `npx kiln my-app` |
-| **[`siteforge`](https://github.com/arjav1181/siteforge)** | One CLI that forges interactive sites — video backgrounds, 15 drop-in sections, FX pack, 3D scenes, demo recorder, site audit, ship helper. Published on npm as `@aj1181/site-forge`. |
-| **[`jaarvis`](https://github.com/arjav1181/jaarvis)** | JAARVIS — voice-first AI butler with three souls, hands-free conversation, real memory, skills, and non-negotiable guardrails. Built as a strict overlay on [Hermes Agent](https://github.com/NousResearch/hermes-agent). **[Live demo →](https://jaarvis.pages.dev)** |
+| **[`siteforge`](https://github.com/arjav1181/siteforge)** | One CLI that forges interactive sites — video backgrounds, 15 drop-in sections, FX pack, 3D scenes, demo recorder, site audit, ship helper. Published on npm as `@aj1181/site-forge`. **[Try it →](https://github.com/arjav1181/siteforge#the-toolkit)** |
+| **[`Jarvis`](https://github.com/arjav1181/Jarvis)** | A self-hosted AI assistant with a voice, a memory, and a browser. Duplex speech, a shared Chromium it can drive and hand over, searchable transcripts, hot-loadable plugins, and an approval gate in front of everything with consequences. **[Live demo →](https://abc1181-jaarvis.hf.space)** |
+| **[`click`](https://github.com/arjav1181/click)** | An open-source, self-hostable AI meeting assistant — bot capture, speaker-attributed transcripts, AI notes with citations, and cross-meeting chat. AGPL-3.0. |
 | **[`tekken8-browser`](https://github.com/arjav1181/tekken8-browser)** | A 2D browser fighting game with genuinely deep frame-data mechanics — motion inputs, hitboxes, juggle limits, wall carry, guard crush, heat and rage systems. Zero dependencies, plain Canvas 2D. |
+| **[`steadlink`](https://github.com/arjav1181/steadlink)** | A self-hosted short link service — branded domains, QR codes, landing pages, campaigns, webhooks, and a public REST API. **[Live demo →](https://steadlink.pages.dev)** |
+| **[`muscify`](https://github.com/arjav1181/muscify)** | A free, ad-free music player for YouTube, Deezer, SomaFM radio and SoundCloud links. Lyrics, taste controls and a working 10-band EQ. **[Live demo →](https://muscify-pearl.vercel.app)** |
+| **[`loudmetric`](https://github.com/arjav1181/loudmetric)** | Self-hosted, cookie-free analytics that tells you what people actually read, and how fast your site really is. |
 
 ### Also built
 
-- **[`video-to-site`](https://github.com/arjav1181/video-to-site)** — turn any video into a scroll-driven Next.js portfolio site. Upscale, extract frames, scaffold, done.
+- **[`go`](https://github.com/arjav1181/Go)** — short links on a domain you own, with analytics that forget who clicked. No IPs, no cookies, no visitor rows.
+- **[`video-to-site`](https://github.com/arjav1181/video-to-site)** — turn any video into a scroll-driven Next.js portfolio site. Now lives on inside [`siteforge`](https://github.com/arjav1181/siteforge).
 - **[`Darkbite Tracker`](https://github.com/arjav1181/Darkbite-Tracker)** — nutrition and food tracking with macro visualisation and a dark UI.
 
 ## Stack
