@@ -31,7 +31,6 @@ The pattern is always the same: **learn by building, ship the thing, then let it
 | **[`click`](https://github.com/arjav1181/click)** | An open-source, self-hostable AI meeting assistant — bot capture, speaker-attributed transcripts, AI notes with citations, and cross-meeting chat. AGPL-3.0. |
 | **[`tekken8-browser`](https://github.com/arjav1181/tekken8-browser)** | A 2D browser fighting game with genuinely deep frame-data mechanics — motion inputs, hitboxes, juggle limits, wall carry, guard crush, heat and rage systems. Zero dependencies, plain Canvas 2D. |
 | **[`steadlink`](https://github.com/arjav1181/steadlink)** | A self-hosted short link service — branded domains, QR codes, landing pages, campaigns, webhooks, and a public REST API. **[Live demo →](https://steadlink.pages.dev)** |
-| **[`muscify`](https://github.com/arjav1181/muscify)** | A free, ad-free music player for YouTube, Deezer, SomaFM radio and SoundCloud links. Lyrics, taste controls and a working 10-band EQ. **[Live demo →](https://muscify-pearl.vercel.app)** |
 | **[`loudmetric`](https://github.com/arjav1181/loudmetric)** | Self-hosted, cookie-free analytics that tells you what people actually read, and how fast your site really is. |
 
 ### Also built
